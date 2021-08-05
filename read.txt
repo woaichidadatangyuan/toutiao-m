@@ -1,1 +1,1 @@
-GIT  GIT  GIT.
+Git is a good tool.
